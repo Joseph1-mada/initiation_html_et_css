@@ -1,0 +1,64 @@
+.para1{
+    text-align: left;
+    text-transform: uppercase; 
+}
+.para2{
+    text-align: center; 
+}
+.para3{
+    text-align: right; 
+}
+.para4{
+    text-align: justify; 
+}
+ .mon-img{
+    text-align: center;
+   }
+div{background-color: blue;}
+.para5{
+    font-variant: small-caps;
+    text-decoration: line-through;
+}
+a{
+    text-decoration: underline;
+}
+.none-{
+    list-style-type: none;
+}
+.disc-{
+    list-style-type: disc;
+}
+.circle-{
+    list-style-type: circle;
+}
+.square-{
+    list-style-type: square
+}
+
+
+.decim{
+    list-style-type: decimal;
+}
+.decimal-leadinzerg{
+    list-style-type: decimal-leading-zero;
+}
+.lower-roma{
+    list-style-type:  lower-roman ;
+}
+.upper-roma{
+    list-style-type: upper-roman
+}
+
+
+.bord{
+    border: 2px solid #33dd14;
+    
+}
+h2 {
+    border-top: 1px solid gray;
+   }
+h3{
+    border-radius : 2px 20px 5px
+10px;
+border-color: blue;
+}
